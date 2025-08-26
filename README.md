@@ -1,1 +1,1 @@
-# House-Price-Prediction-containing
+This project predicts house prices using Linear Regression based on different features like size, location, and style. The dataset is cleaned, preprocessed, and used to train a regression model that estimates house prices accurately.
